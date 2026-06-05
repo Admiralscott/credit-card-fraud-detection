@@ -4,10 +4,10 @@ __pycache__/
 *$py.class
 
 # Local Data and Models
-backend/data/
-backend/models/
-backend/data_verify/
-backend/models_verify/
+data/
+models/
+data_verify/
+models_verify/
 
 # Node dependencies and build folders
 frontend/node_modules/
